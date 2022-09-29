@@ -24,11 +24,11 @@ signup.addEventListener("click",function(e){
         return;
     }
     else if(contact1_data.innerText==""){
-        alert("Enter Contact!!");
+        alert("Enter Contact1 Email!!");
         return;
     }
     else if(contact2_data.innerText==""){
-        alert("Enter Contact!!");
+        alert("Enter Contact2 Email!!");
         return;
     }
     else{
